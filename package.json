@@ -1,0 +1,25 @@
+{
+  "name": "tushar-navbar-module",
+  "version": "1.0.0",
+  "description": "This is a responsive navbar module to create a quick responsive navigation bar",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushar-droid/navbar-module.git"
+  },
+  "author": "Tushar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushar-droid/navbar-module/issues"
+  },
+  "homepage": "https://github.com/tushar-droid/navbar-module#readme",
+  "dependencies": {
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
